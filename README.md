@@ -1,7 +1,7 @@
 # project
 COURSE PROJECT:
 
-the projecit devided to three branches:
+the project's devided to three branches:
 
 1-master which sends signals .
 
